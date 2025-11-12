@@ -1,0 +1,9 @@
+# Archivos compilados
+*.o
+*.out
+*.exe
+main
+programa
+
+# Carpetas del sistema
+.vscode/
