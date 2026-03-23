@@ -47,6 +47,3 @@ int main(void){
     }
     return 0;
 }
-/*
-https://omegaup.com/profile/ehz/
-*/
